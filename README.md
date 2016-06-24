@@ -1,0 +1,2 @@
+# zookeeperElector
+一个利用zookeeper实现简单选举master的高可用方案
